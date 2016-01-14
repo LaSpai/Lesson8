@@ -68,4 +68,4 @@ class2rmse <- sqrt(mean((zones[2,2]-zones[2,3])^2 )) #rmse for class forest 2 is
 class3rmse <- sqrt(mean((zones[3,2]-zones[3,3])^2 )) #rmse for class wetland is 6.907
 
 #Test
-
+aaa
