@@ -49,6 +49,7 @@ plot(vcfGewata, main = "Vcf raster")
 hist(predictForRaster)
 hist(vcfGewata)
 
+
 # RMSE
 rmse <- sqrt(cellStats((vcfGewata-predictForRaster)^2, stat = mean))
 rmse
