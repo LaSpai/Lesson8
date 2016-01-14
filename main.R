@@ -1,3 +1,6 @@
+# Names: Lazaros Spaias, Christos Sotiropoulos
+# Lesson 8: Exercise
+
 library (raster)
 load("AdvancedRasterAnalysis/data/GewataB1.rda")
 load("AdvancedRasterAnalysis/data/GewataB2.rda")
