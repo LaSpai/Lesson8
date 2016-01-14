@@ -63,3 +63,6 @@ zones <- zonal(simobs, classes, fun = mean)
 class1rmse <- sqrt(mean((zones[1,2]-zones[1,3])^2 )) #rmse for class cropland is 3.960
 class2rmse <- sqrt(mean((zones[2,2]-zones[2,3])^2 )) #rmse for class forest 2 is 2.315
 class3rmse <- sqrt(mean((zones[3,2]-zones[3,3])^2 )) #rmse for class wetland is 6.907
+
+#Test
+
